@@ -1,6 +1,7 @@
 # HealthCareBooking 
 
-### FrontEnd: https://github.com/bdts1547/ReactJS_Frontend
+#### FE: https://github.com/bdts1547/ReactJS_Frontend
+#### BE: https://github.com/bdts1547/NodeJS_Backend
+**Technologies**: NodeJS(Express), React-Redux, HTML/SCSS, MySQL(Sequelize).
+**Architecture**: MVC
 
-
-### BackEnd: https://github.com/bdts1547/NodeJS_Backend
